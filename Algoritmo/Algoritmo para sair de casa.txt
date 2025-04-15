@@ -1,0 +1,7 @@
+Algoritmo para sair de casa
+
+- Checar as chaves de casa
+- Checar a carteira
+- Chegar o celular
+- Pegar o fone
+- Sair de casa

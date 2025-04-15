@@ -1,0 +1,11 @@
+Algoritmo para preparar um sanduíche
+
+- Pega o saco do pão
+- Abre o saco de pão
+- Pega o pão 
+- Corta o pão
+- Pega o presunto 
+- Coloca no pão
+- Pega o queijo
+- Coloca no pão 
+- Fecha o pão
