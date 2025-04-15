@@ -1,0 +1,12 @@
+- Algoritmo para fazer um café em uma cafeteira de coador-
+
+- Enche o bule com agua
+- Coloco bule no fogão
+- ligue o fogão e deixe ferver
+- Enquanto isso prepare o coador
+- Coloque o filtro no coador
+- Coloque o pó de café no filtro
+- Coloque uma garrafa em baixo
+- Coloque a agua quente no filtro
+- Deixe escorrer na garrafa
+- Coloque o açucar

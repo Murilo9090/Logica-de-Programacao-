@@ -1,0 +1,18 @@
+-Algoritmo para tomar banho-
+
+- Pego a toalha
+- Vou para o banheiro
+- Coloco a toalha no banheiro 
+- Tiro a roupa
+- ligo o chuveiro
+- Passo o shampoo
+- Tiro o shampoo
+- Coloco o condicionador
+- Tiro o condicionador 
+- Passa o sabonete
+- Enxugo o corpo
+- Tiro o sabão no corpo
+- desligo o chuveiro
+- pego a toalha
+- me seco
+- coloca uma roupa nova

@@ -1,0 +1,8 @@
+-Algoritmo para trocar uma lâmpada-
+
+- Pegue a escada
+- Remova a lâmpada velha 
+- Pegue a lâmpada nova
+- Coloque a lâmpada com cuidado
+- Desce da escada 
+- ligue a luz e veja se esta ligando
